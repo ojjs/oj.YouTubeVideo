@@ -1,4 +1,4 @@
 oj.YouTubeVideo
-===============
+============
 
-YouTube video plugin for OJ
+A YouTube video plugin for OJ.
