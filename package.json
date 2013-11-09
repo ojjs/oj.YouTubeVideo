@@ -1,7 +1,7 @@
 {
   "name": "oj-youtube-video",
-  "version": "0.0.1",
-  "main": "src/oj.YouTubeVideo.js",
+  "version": "0.0.2",
+  "main": "oj.YouTubeVideo.js",
   "description": "YouTube video plugin for OJ",
   "homepage": "http://ojjs.org/docs#YouTubeVideo",
   "keywords": [
